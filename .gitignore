@@ -1,7 +1,3 @@
-##ignore this file##
-/venv/
-/dataset/
-/.idea/
 
 ### Example user template template
 ### Example user template
@@ -11,3 +7,6 @@
 *.iml
 out
 gen
+
+venv/
+dataset/
